@@ -1,2 +1,2 @@
 # gameit
-Short game with just HTML, CSS, and JavaScript
+Small game with just HTML, CSS, and JavaScript
